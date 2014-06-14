@@ -18,7 +18,7 @@ div#container
 }
 body
 {
-   background-color: #5C8A97;
+   background-color: #888A97;
    color: #1E1E1E;
    font-family: Verdana;
    font-size: 13px;
