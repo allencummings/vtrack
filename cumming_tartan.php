@@ -258,6 +258,7 @@ a:hover
 <div id="wb_Text1" style="position:absolute;left:351px;top:63px;width:644px;height:38px;z-index:23;text-align:left;">
 <span style="color:#044E1C;font-family:Georgia;font-size:32px;"><em>Clan Cumming Society of the United States</em></span></div>
 <div id="Html1" style="position:absolute;left:1px;top:0px;width:185px;height:35px;z-index:24">
+
 <?php include "menu.php"; ?></div>
 </div>
 </body>
